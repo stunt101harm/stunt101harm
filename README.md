@@ -1,7 +1,7 @@
 ### Hi there, I'm Harm 👋
 
 
-## I'm a University Student interested in CS!!
+## I'm a Finance and Computer Science Student!
 
 - 🔭 I am currently working on projects built on the Solana ecosystem
 - 🌱 I’m currently learning everything 🤣 
