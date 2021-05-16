@@ -3,10 +3,10 @@
 
 ## I'm a University Student interested in CS!!
 
-- 🔭 I am currently working on side projects
+- 🔭 I am currently working on projects built on the Solana ecosystem
 - 🌱 I’m currently learning everything 🤣 
-- 👯 I’m collaborating on 
-- 🥅 2021 Goals: 
+- 👯 I’m collaborating with the Blockchain Education Network (BEN)
+- 🥅 2021 Goals: Contribute to open-source projects
 - ⚡ Fun fact: Crypto Enthusiast 
 
 ### Languages and Tools:
